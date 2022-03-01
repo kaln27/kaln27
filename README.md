@@ -4,7 +4,7 @@
 - 👀 I’m interested in deep learning comquter vision 
 - 🌱 I’m currently learning Deeplearning
 - 📫 How to reach me : liaojuncheng123@foxmail.com
-- 我的 [GITHUB](https://github.com/liaojuncheng123)
+- My [GITHUB](https://github.com/liaojuncheng123)
 
 ![PICTURE](./picture.jpg)
 
