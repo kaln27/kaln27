@@ -1,8 +1,11 @@
+# INTOURDUCTION OF MYSELF
+
 - 👋 Hi, I’m @liaojuncheng123
-- 👀 I’m interested in ...
+- 👀 I’m interested in deep learning comquter vision 
 - 🌱 I’m currently learning Deeplearning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : liaojuncheng123@foxmail.com
+- [GITHUB](https://github.com/liaojuncheng123)
+
 
 <!---
 liaojuncheng123/liaojuncheng123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
