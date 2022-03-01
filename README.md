@@ -6,7 +6,7 @@
 - 📫 How to reach me : liaojuncheng123@foxmail.com
 - My [GITHUB](https://github.com/liaojuncheng123)
 
-![PICTURE](./picture.jpg)
+<img src='picture1.png' width=400px><img>
 
 
 <!---
