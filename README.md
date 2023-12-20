@@ -1,7 +1,7 @@
 ## kaln27 🙏
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:liaojuncheng123@foxmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/)
+[![](https://img.shields.io/badge/LinkedIn-kaln27-blue)](https://www.linkedin.com/)
+[![](https://img.shields.io/badge/foxmail-liaojuncheng123%40foxmail.com-red)](mailto:liaojuncheng123@foxmail.com)
+[![](https://img.shields.io/badge/Telegram-%40kaln27-blue)](https://t.me/)
 
 ![](carbon.png)
 
