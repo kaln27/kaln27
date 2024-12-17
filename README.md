@@ -15,13 +15,13 @@
 
 <br>
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning, LLMs. 
+- :seedling: I’m currently learning Machine Learning, Deep Learning, LLMs. 
 
-- 📫 How to reach me **liaojuncheng123@foxmail.com**, **jc.liau@outlook.com**
+- :mailbox: How to reach me **liaojuncheng123@foxmail.com**, **jc.liau@outlook.com**
 
 <br>
 
-# 💻 Tech Stack:
+# :computer: Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -34,7 +34,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## LLMs
+## :kissing_cat: LLMs
 
 <br>
 
