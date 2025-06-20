@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Jun-Cheng Liao</h1>
-<h3 align="center">Student at HIT, Weihai.</h3>
+<h3 align="center">Undergraduate Student from Harbin Institute of Technology</h3>
+<h3 align="center">Graduate Student from Zhejiang University</h3>
 
 <h3 align="center">Visit my Website Here.</h3>
 <h4 align="center"><a href="https://kaln27.github.io">kaln27.github.io</a></h4>
